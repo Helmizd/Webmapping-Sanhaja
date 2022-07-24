@@ -1,0 +1,4 @@
+var json_PYLONHT_6 = {"type":"FeatureCollection","name":"PYLONHT_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"OBJECTID":"1","nom":null,"numero":0.0,"etat":null},"geometry":{"type":"Point","coordinates":[10.035141447785346,36.802783175713728]}},{"type":"Feature","properties":{"OBJECTID":"2","nom":null,"numero":0.0,"etat":null},"geometry":{"type":"Point","coordinates":[10.042448615167586,36.804704093416369]}},{"type":"Feature","properties":{"OBJECTID":"3","nom":null,"numero":0.0,"etat":null},"geometry":{"type":"Point","coordinates":[10.043829042607067,36.807740678087924]}}]}
+
+
+module.exports = json_PYLONHT_6;
